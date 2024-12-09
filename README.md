@@ -1,5 +1,5 @@
 # mckenzieu-data-analyst
-Welcome to my portfolio! I am a data analyst with experience in SQL, R, data visualization
+Welcome to my portfolio! I am a data analyst with experience in SQL, R, and data visualization
 
 ## Projects
 
